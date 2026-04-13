@@ -51,11 +51,11 @@
 
 <div class="content">
     <h2>Welcome!</h2>
-    <p>This app is deployed using Jenkins.</p>
+    <p>This app is deployed using Jenkins.For Kushal</p>
 
     <h3>Version:</h3>
     <p>
-        <?php echo "Version 1"; ?>
+        <?php echo "Version 2"; ?>
     </p>
 </div>
 
